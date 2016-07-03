@@ -1,0 +1,48 @@
+body{
+	background-color: maroon;
+	color:white;
+	font-size: 16px;
+	font-family: 'Oxygen',sans-serif;
+}
+
+#header-nav{
+	background-color:yellow;
+	border:0;
+	border-radius:0; 
+}
+
+#img-logo{
+	background:url('C:/bhawanaGitHub/courseera/img/kitchen.jpg') no-repeat;
+	width:150px;
+	height:150px;
+	margin:10px 10px 10px 0;
+
+}
+
+.navbar-brand h1{
+	
+	font-variant-caps: small-caps;
+	text-transform: uppercase;
+	font-weight: bold;
+	color:red;
+	font-size: 1.5em;
+	margin-top: 0;
+	margin-bottom:0;
+	line-height: .75;
+	font-family:'Lora',serif;
+	text-shadow: 1px 1px 1px 1px blue;
+
+}
+
+.navbar-brand{
+	padding-top: 25px;
+}
+
+.navbar-brand p{
+	color:red;
+	font-size: .7em;
+	text-shadow: 1px 1px 1px 1px blue;
+	text-transform: uppercase;
+	font-style: italic;
+	padding-top: 15px;
+}
